@@ -1,0 +1,2 @@
+# Treat .sql files as SQL code for GitHub language stats
+*.sql linguist-language=SQL
