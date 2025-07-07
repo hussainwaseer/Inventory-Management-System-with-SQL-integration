@@ -82,5 +82,5 @@ Swing/JavaFX GUI interface
 
 👤 Author
 Muhammad Hussain
-🎓 Computer Science Student | Backend Developer
+🎓 Ai Student | Backend Developer
 📧 Feel free to connect or suggest improvements!
