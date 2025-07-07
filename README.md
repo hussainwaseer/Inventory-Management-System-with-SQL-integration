@@ -40,6 +40,7 @@ IDE: IntelliJ IDEA / NetBeans / Eclipse
 static final String databaseusername = "root";
 static final String databasepassword = "root";
 static final String databasepath = "jdbc:mysql://localhost:3306/inventory_system";
+```
 
 🧾 Application Flow
 🔸 Main Menu:
