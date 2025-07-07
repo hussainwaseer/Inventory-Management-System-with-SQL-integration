@@ -1,2 +1,2 @@
-# Treat .sql files as SQL code for GitHub language stats
-*.sql linguist-language=SQL
+# Count all .sql files inside the database folder as SQL
+/database/*.sql linguist-language=SQL
