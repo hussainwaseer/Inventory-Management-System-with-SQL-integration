@@ -13,7 +13,8 @@ IDE: IntelliJ IDEA / NetBeans / Eclipse
 ├── libraries/ – Contains MySQL JDBC driver (.jar)  
 ├── src/ – Java application source code  
 │   └── Main.java  
-├── Inventory management database.sql – SQL schema for database setup  
+├── Database  – SQL schema for database setup  
+    └── Inventory management database.sql 
 └── README.md – Project documentation  
 
 ## 📂 Features
